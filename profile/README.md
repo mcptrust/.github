@@ -9,8 +9,6 @@ MCPTrust provides the **cryptographic control plane** for this new runtime.
 
 We replace dynamic, probabilistic tool discovery with **deterministic security**. By locking server capabilities to **Ed25519** and **Sigstore** signatures, we enable engineering teams to establish a verifiable **Chain of Custody** for every tool their agents touch.
 
-[View the Repository](#) · [Read the Documentation](#)
-
 </div>
 
 ---
