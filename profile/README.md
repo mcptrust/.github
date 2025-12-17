@@ -30,8 +30,8 @@ Security policy shouldn't be a PDF. We use **Common Expression Language (CEL)** 
 
 Our primary repository contains the CLI, the specification, and the integration suite.
 
-* [View the Repository](#)
-* [Read the Documentation](#)
+* [View the Repository](https://github.com/mcptrust/mcptrust)
+* [Read the Documentation](https://github.com/mcptrust/mcptrust/tree/main/docs)
 
 ---
 
